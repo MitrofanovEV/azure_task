@@ -1,0 +1,23 @@
+{
+  "name": "task_azure",
+  "version": "1.0.0",
+  "description": "task_azure",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rengar12/task_azure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rengar12/task_azure/issues"
+  },
+  "homepage": "https://github.com/rengar12/task_azure#readme",
+  "dependencies": {
+    "mathjs": "^6.2.5",
+    "mongoose": "^5.8.1"
+  }
+}

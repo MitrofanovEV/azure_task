@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rengar12/task_azure#readme",
   "dependencies": {
-    "mathjs": "^6.2.5",
+    "mathjs": "^7.5.1",
     "mongoose": "^5.8.1"
   }
 }
